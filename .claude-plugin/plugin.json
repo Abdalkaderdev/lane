@@ -1,0 +1,13 @@
+{
+  "name": "lane",
+  "version": "0.1.0",
+  "description": "Scope discipline for coding agents. Fence the task, park drive-bys, ship small diffs with a changelog line and a PR body a reviewer can trust.",
+  "author": {
+    "name": "abdalkaderdev",
+    "url": "https://github.com/Abdalkaderdev"
+  },
+  "homepage": "https://github.com/Abdalkaderdev/lane",
+  "repository": "https://github.com/Abdalkaderdev/lane",
+  "license": "MIT",
+  "keywords": ["scope", "pull-requests", "changelog", "workflow", "skills"]
+}
