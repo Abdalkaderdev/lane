@@ -1,0 +1,17 @@
+{
+  "description": "Remind the agent of the lane rules at session start and after compaction.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/hooks/session-start.md\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
