@@ -1,6 +1,6 @@
 ---
 name: ship
-description: Finish a change the way a careful engineer would. Use when the work is done and before saying so, opening a pull request, or handing back to the user. Audits the diff against the fence, adds a changelog entry for user-visible changes, and writes a PR body with exact verification commands and the parked list.
+description: Finish a change the way a careful engineer would. Use when the work is done and before saying so, when asked to write a PR body or PR description, before opening a pull request, or when handing back to the user. Audits the diff against the fence, adds a changelog entry for user-visible changes, and writes a PR body with exact verification commands and the parked list.
 ---
 
 # Ship
