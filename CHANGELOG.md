@@ -6,6 +6,9 @@ and the project uses [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Fixed
+- `ship` now loads when asked to write a PR body for finished work.
+
 ## [0.1.0] - 2026-10-08
 
 ### Added
